@@ -1,0 +1,3 @@
+[submodule "WebView2.ahk"]
+	path = WebView2.ahk
+	url = https://github.com/G33kDude/WebView2.ahk.git
